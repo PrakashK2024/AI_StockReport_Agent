@@ -74,7 +74,7 @@ Then open `.env` and fill in your values.
 ## 🔑 Groq API key setup
 
 1. Create or log in to your Groq account.
-2. Open the Groq API Keys page and generate a new key. Groq’s docs recommend setting the key as an environment variable, and their quickstart uses `GROQ_API_KEY`. citeturn134148search0turn134148search2
+2. Open the Groq API Keys page and generate a new key. Groq’s docs recommend setting the key as an environment variable, and their quickstart uses `GROQ_API_KEY`. 
 3. Paste the key into your `.env` file.
 4. Do **not** commit your real API key to GitHub.
 
