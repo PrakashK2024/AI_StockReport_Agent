@@ -38,7 +38,7 @@ You may switch to another Groq-supported model by changing `GROQ_MODEL`.
 
 ![Dashboard](Output.png)
 
-![Two Company Report Generation](2 companies  report.png)
+![Two Company Report Generation](2 _companies_report.png)
 
 
 ## ⚠️ Limitations
