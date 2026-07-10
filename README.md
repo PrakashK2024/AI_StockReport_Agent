@@ -36,6 +36,11 @@ App.py → agent.py → Stock_Agent.py
 Default model: `llama-3.3-70b-versatile`.
 You may switch to another Groq-supported model by changing `GROQ_MODEL`.
 
+![Dashboard](Output.png)
+
+![Two Company Report Generation](2 companies  report.png)
+
+
 ## ⚠️ Limitations
 - Relies on public SEC and Yahoo Finance data.
 - No real-time market feed.
